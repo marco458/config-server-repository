@@ -1,7 +1,6 @@
 server:
   port: 8003
 
-spring:
   temperatureUnit: K
 
 microservices:
